@@ -158,12 +158,6 @@ else
         Luarmor v3 for Roblox, #1 lua whitelisting system by Federal#9999
 				   https://luarmor.net/
 
-      ____          _   _                 _ 
-     |  _ \  __ _  | | | | ___   ___   __| |
-     | | | |/ _` | | |_| |/ _ \ / _ \ / _` |
-     | |_| | (_| | |  _  | (_) | (_) | (_| |
-     |____/ \__,_| |_| |_|\___/ \___/ \__,_|
-                                            
 
                                                      
                  Script ID: e408f8e8f0c0dfb0c949fb430cbc7bb1
